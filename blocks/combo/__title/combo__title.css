@@ -1,0 +1,15 @@
+.combo__title{
+    position: absolute;
+    width: 290px;
+    height: 34px;
+    text-align: center;
+    color: #415167;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 34px;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    margin-top: 118px;
+    margin-left: 422px;
+}

@@ -1,0 +1,15 @@
+@import url("./__title/giftset__title.css");
+@import url("./__subtitle/giftset__subtitle.css");
+@import url("./__content/giftset__content.css");
+.giftset {
+    position: relative;
+    width: 1270px;
+    height: 802px;
+    margin-left: 0;
+    margin-top: 0;
+    display: flex;
+    justify-items: center;
+    background-image: linear-gradient(to right, rgb(237, 240, 245.1) 1076px, rgba(255, 255, 255, 0) 25%);
+}
+
+

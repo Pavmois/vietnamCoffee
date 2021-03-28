@@ -1,0 +1,10 @@
+@import url('./__navigation/header__navigation.css');
+@import url('./__slide/header__content.css');
+@import url('./__menu/header__menu.css');
+@import url('./__slide/header__content-title.css');
+@import url('./__slide//header__btn.css');
+.header {
+    position: relative;
+    height: 768px;
+    display: flex;
+}

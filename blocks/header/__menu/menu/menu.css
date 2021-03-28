@@ -1,0 +1,12 @@
+@import url('./__title/menu__title.css');
+@import url('./__list/menu__list.css');
+.menu {
+    width: 140px;
+    height: 277px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 230px;
+    margin-left: 57px;
+    font-family: "Nunito";
+    color: #EDF0F5;
+}

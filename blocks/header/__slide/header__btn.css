@@ -1,0 +1,15 @@
+.header__btn {
+    position:relative;
+    display: flex;
+    width:53.85px;
+    height:54px;
+    left:701.99px;
+    top:357px;
+    cursor: pointer;
+}
+
+.btn-img{
+    position: absolute;
+    left: -25px;
+    top: -20px;
+}

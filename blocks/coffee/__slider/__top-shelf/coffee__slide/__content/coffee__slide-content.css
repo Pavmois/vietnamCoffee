@@ -1,0 +1,72 @@
+.coffee__slide-content{
+    width: 240px;
+    height: 172px;
+    margin-left: 42px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+}
+  .coffee__price {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #C7A17A;
+  }
+  .coffee__name {
+    margin-top: 8px;
+    margin-bottom: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #232C38;
+  }
+  .coffee__text {
+    height: 38px;
+    margin-bottom: 18px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #151D28;
+  }
+
+  .coffee__btn {
+    border: none;
+    outline: none;
+    text-align: center;
+    display: block;
+    width: 134px;
+    height: 32px;
+    background-color: #c7a17a;
+    cursor: pointer;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #F9FBFF;
+    border-radius: 16px;
+  }
+  .coffee__btn:hover {
+    background-color: #a57c54;
+  }
+  
+  .coffee__chi{
+    position: absolute;
+    width: 70px;
+    height: 22px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #415167;
+    right: 53px;
+    bottom: 44px;
+    padding: 0;
+    margin: 0;
+  }

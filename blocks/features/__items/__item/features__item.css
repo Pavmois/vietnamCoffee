@@ -1,0 +1,32 @@
+.features__item{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.features__item-img {
+    height: 135px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .features__item-title {
+    height: 28px;    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #232C38;
+  }
+  .features__item-text {
+     width: 226px;
+    height: 66px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #151D28;
+  }

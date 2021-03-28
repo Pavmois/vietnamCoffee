@@ -1,0 +1,130 @@
+.giftset__container-text{
+    position: relative;
+    display: flex;
+    width: 560px;
+    height: 460px;
+}
+
+.giftset__item {
+    padding: 64px 66px 0px 64px;
+    display: none;
+  }
+  .giftset__item.active {
+    display: block;
+  }
+  .giftset__img {
+    position: absolute;
+    top: 60px;
+    left: 200px;
+    transform: translateX(-100%);
+  }
+  .giftset__item-price {
+     font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 0px;
+    color: #c7a17a;
+  }
+  .giftset__item-h3 {
+    height: 30px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    color: #232C38;
+  }
+  .giftset__item-text {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 12px;
+    color: #151D28;
+  }
+  .giftset__item-about {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 46px;
+  }
+
+  .giftset__about-item{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+  }
+
+  .giftset__about-text{
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .giftset__about-text p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #415167;
+  }
+
+  .giftset__about-text h4{
+    margin-top: 0px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #415167;
+  }
+
+  
+  .giftset__about-img {
+    margin-right: 10px;
+  }
+  .giftset__btn {
+    border: none;
+    outline: none;
+    text-align: center;
+    display: block;
+    width: 166px;
+    height: 37.75px;
+    background-color: #c7a17a;
+    cursor: pointer;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #F9FBFF;
+    border-radius: 16px;
+  }
+  .giftset__btn:hover {
+    background-color: #bf9468;
+  }
+
+  .giftset__chi{
+    position: absolute;
+    text-align: center;
+    width: 75.49px;
+    height: 22px;
+    line-height: 22px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #415167;
+    right: 110.75px;
+    top: 356px;
+    padding: 0;
+    margin: 0;
+  }

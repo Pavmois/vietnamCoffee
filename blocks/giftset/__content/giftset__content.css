@@ -1,0 +1,10 @@
+@import url("./__image/giftset__content-image.css");
+@import url("./__container/giftset__container.css");
+.giftset__content{
+    display: flex;
+    width: 1138px;
+    height: 460px;
+    margin-left: 130px;
+    margin-top: 213px;
+    background-color: white;
+}

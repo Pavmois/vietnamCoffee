@@ -1,0 +1,8 @@
+@import url('./menu/menu.css');
+.header__menu {
+    width: 327.07px;
+    height: 768px;
+    display: flex;
+    flex-direction: column;
+    background-color: #415167;
+}

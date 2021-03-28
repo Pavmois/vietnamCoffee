@@ -1,0 +1,14 @@
+.coffee__subtitle{
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    color: #415167;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    margin-top: 90px;
+  }

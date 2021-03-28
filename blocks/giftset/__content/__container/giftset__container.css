@@ -1,0 +1,9 @@
+@import url("./-btn/giftset__container-btn.css");
+@import url("./-text/giftset__container-text.css");
+.giftset__container{
+    display: flex;
+    justify-content: space-between;
+    width: 658px;
+    height: 460px;
+    box-shadow: 1px 0px 10px 0px rgba(205, 205, 205, 0.5);
+}

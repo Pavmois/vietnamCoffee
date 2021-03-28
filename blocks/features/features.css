@@ -1,0 +1,13 @@
+@import url('./__title/features__title.css');
+@import url('./__subtitle/features__subtitle.css');
+@import url('./__items/features__items.css');
+@import url('./__items/__item/features__item.css');
+.features {
+    position: relative;
+    width: 1104px;
+    height: 382.57px;
+    margin-left: 148px;
+    margin-top: 87px;
+    display: flex;
+    flex-direction: row;
+}

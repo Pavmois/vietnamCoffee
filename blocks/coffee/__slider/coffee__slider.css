@@ -1,0 +1,12 @@
+@import url("./__top-shelf/coffee__top-shelf.css");
+@import url("./__bottom-shelf/coffee__bottom-shelf.css");
+@import url("./__slider-btn/coffee__slider-btn.css");
+.coffee__slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 1704px;
+    height: 544px;
+    margin-top: 222px;
+    margin-left: 128px;
+}

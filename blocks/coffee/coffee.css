@@ -1,0 +1,15 @@
+@import url("./__slider/coffee__slider.css");
+@import url("./__title/coffee__title.css");
+@import url("./__subtitle/coffee__subtitle.css");
+.coffee {
+    position: relative;
+    width: 1400px;
+    height: 894px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 128.73px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-image: linear-gradient(to right, rgb(65, 81, 103.1) 384px, rgba(255, 255, 255, 0) 25%);
+}

@@ -1,0 +1,21 @@
+.header__content-title {
+    height: 200px;
+    width: 470px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 70px;
+    color: #415167;
+    position: absolute;
+    bottom: 24px;
+    left: 144.63px;
+  }
+
+  .header__content-title span {
+    color: #f9fbff;
+    background-color: #c7a17a;
+    margin-left: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }

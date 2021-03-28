@@ -1,0 +1,13 @@
+@import url("./__slide/combo__slide.css");
+@import url("./__slider-btn/combo__slider-btn.css");
+.combo__slider{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1530px;
+    height: 562px;
+    margin-top: 216px;
+    transition: 0.5s transform;   
+    overflow: hidden;
+}

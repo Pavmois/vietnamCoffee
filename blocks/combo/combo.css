@@ -1,0 +1,14 @@
+@import url("./__title/combo__title.css");
+@import url("./__subtitle/combo__subtitle.css");
+@import url("./__slider/combo__slider.css");
+.combo {
+    position: relative;
+    width: 1530px;
+    height: 906px;
+    margin-left: 128px;
+    margin-top: 0;
+    display: flex;
+    justify-items: center;
+    background-image: linear-gradient(to left, rgb(65, 81, 103.1) 584px, rgba(255, 255, 255, 0) 20%);
+    overflow: hidden;
+}

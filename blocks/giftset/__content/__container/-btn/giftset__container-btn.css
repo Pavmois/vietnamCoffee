@@ -1,0 +1,31 @@
+.giftset__container-btn{
+    width: 88px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+}
+
+.giftset__tab-btn {
+    border: none;
+    outline: none;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 34px;
+    color: #415167;
+    padding-left: 33px;
+    padding-right: 33px;
+    font-family: "Montserrat";
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background: #edf0f5;
+  }
+  .giftset__tab-btn:hover {
+    background-color: #fff;
+  }
+  .giftset__tab-btn:not(:first-child) {
+    border-top: 1px solid #edf0f5;
+  }
+  .giftset__tab-btn.active {
+    background-color: #fff;
+  }

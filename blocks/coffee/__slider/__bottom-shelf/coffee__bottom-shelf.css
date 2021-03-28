@@ -1,0 +1,8 @@
+.coffee__bottom-shelf{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1704px;;
+    height: 256px;
+    transition: 0.5s transform;
+}
